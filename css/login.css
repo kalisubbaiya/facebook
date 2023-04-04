@@ -61,3 +61,13 @@ button{
 a:hover{
     text-decoration: underline;
 }
+@media (min-width: 320px){
+    .container{
+        width: 95%;
+    }
+}
+@media (min-width: 996px){
+    .container{
+        width: 30%;
+    }
+}

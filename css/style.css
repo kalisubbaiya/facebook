@@ -156,9 +156,15 @@ a{
   .container{
     width: 95%;
   }
+  select, .gender div{
+    width: 100%;
+  }
 }
 @media (min-width:996px){
   .container{
     width: 32%;
+  }
+  select, .gender div{
+    width: 31%;
   }
 }

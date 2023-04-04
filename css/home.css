@@ -81,3 +81,13 @@ button:hover{
 .edit span:hover{
     color: blue;
 }
+@media (min-width: 320px){
+    .container{
+        width: 95%;
+    }
+}
+@media (min-width: 996px){
+    .container{
+        width: 40%;
+    }
+}
