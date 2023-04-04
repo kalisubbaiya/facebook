@@ -146,3 +146,14 @@ a{
   top: -5px;
   right: 12px;
 }
+
+@media (min-width:320px){
+  .container{
+    width: 95%;
+  }
+}
+@media (min-width:996px){
+  .container{
+    width: 32%;
+  }
+}
